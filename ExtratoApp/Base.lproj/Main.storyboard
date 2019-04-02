@@ -70,7 +70,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YE3-i2-bW6">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="icoded.png" translatesAutoresizingMaskIntoConstraints="NO" id="YE3-i2-bW6">
                                 <rect key="frame" x="90" y="610" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -344,4 +344,7 @@
             <point key="canvasLocation" x="845" y="21"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="icoded.png" width="140" height="43"/>
+    </resources>
 </document>

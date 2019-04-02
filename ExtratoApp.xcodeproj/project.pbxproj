@@ -55,7 +55,6 @@
 		F92B7A9622527AB900DA956B /* icoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icoded.png; path = ../../../../Downloads/icoded.png; sourceTree = "<group>"; };
 		F92B7A9A2253845500DA956B /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
 		F92B7A9C22539E1300DA956B /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
-		F92B7AA02253B2C400DA956B /* untitled.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = untitled.jpg; sourceTree = "<group>"; };
 		F92FEB2E2252580D004FA4C9 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		F99E147B224EBB220023F667 /* ExtratoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExtratoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F99E147E224EBB220023F667 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -161,7 +160,6 @@
 				F99E1480224EBB220023F667 /* ViewController.swift */,
 				F99E1482224EBB220023F667 /* Main.storyboard */,
 				F99E1485224EBB250023F667 /* Assets.xcassets */,
-				F92B7AA02253B2C400DA956B /* untitled.jpg */,
 				F92B7A9622527AB900DA956B /* icoded.png */,
 				F99E1487224EBB250023F667 /* LaunchScreen.storyboard */,
 				F99E148A224EBB250023F667 /* Info.plist */,
